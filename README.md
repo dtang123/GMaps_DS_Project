@@ -2,7 +2,7 @@
 Here is my Xtern data science application
 
 
-# Conclusion
+# Activity Plan
 |    Time    |   Activity  | Address | Type | Duration |
 |------------|-------------|------|--------|---------|
 |  9am-11am  |  Indy Zoo   | 1200 W Washington St, Indianapolis, IN 46222, United States	| Zoo | 2hr |
@@ -18,3 +18,6 @@ Here is my Xtern data science application
 - Red circle represents Restaurant
 - Blue triangle represents an Attraction
 <img width="1470" alt="Screen Shot 2022-10-17 at 4 46 01 PM" src="https://user-images.githubusercontent.com/95396906/196280120-b4dcaea8-61db-401a-9811-e245529f7678.png">
+
+# Conclusion
+Using this kind of data visualization I was able to make a plan that made sense geographically. Most of the restaurants were in downtown Indianapolis, so I stuck close to downtown in the morning and evening, during the afternoon, I planned popular activities that were not close to downtown.
